@@ -37,7 +37,7 @@ I follow a **systematic and adversarial approach** to reviews:
 ---
 
 ## 📑 Completed Reports  
-- ✅ **PasswordStore** – [2025-09-20 Report]()  
+- ✅ **PasswordStore** – [2025-09-20 Report](https://github.com/0xrafi-kaji/smart-contract-security-portfolio/blob/main/2025-09-20_PasswordStore_report.pdf)  
 
 ---
 
