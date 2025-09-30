@@ -5,7 +5,7 @@ This repository serves as a comprehensive portfolio documenting my journey, skil
 ---
 
 ## 📌 About Me  
-- **Alias:** 0xrafi-kaji  
+- **Alias:** 0xrafiKaji 
 - **Role:** Smart Contract Security Researcher  
 - **Focus Areas:**  
   - Solidity & EVM Internals  
@@ -38,7 +38,7 @@ I follow a **systematic and adversarial approach** to reviews:
 
 ## 📑 Completed Reports  
 - ✅ **PasswordStore** – [2025-09-20 Report](https://github.com/0xrafi-kaji/smart-contract-security-portfolio/blob/main/2025-09-20_PasswordStore_report.pdf)  
-
+- ✅ **PuppyRaffle** – [2025-09-30_Report](https://github.com/0xrafiKaji/smart-contract-security-portfolio/blob/main/2025-09-30_PuppyRaffle_report.pdf)
 ---
 
 ## 🎯 Goals  
@@ -84,8 +84,8 @@ This portfolio is not only a personal learning archive but also a professional s
 ---
 
 ## 🚀 Let’s Connect  
-- GitHub: [0xrafi-kaji](https://github.com/0xrafi-kaji)  
-- Twitter/X: [Abdul Awal Ibn Rafi](https://x.com/Rafi_Ackermann) 
+- GitHub: [Abdul Awal Ibn Rafi](https://github.com/0xrafiKaji)  
+- Twitter/X: [Abdul Awal Ibn Rafi](https://x.com/0xrafiKaji) 
 - LinkedIn: *(optional)*  
 
 ---
